@@ -1,0 +1,28 @@
+name: benhousden
+favicon: null
+layout_spectrum: 0.02543205162510276
+typography_spectrum: 0.6235301969572902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5861667939461768
+  lightness: 0.19215151388198137
+  saturation: 0.11339774588122964
+  rhythmicContrast: 0.9936331256758422
+purpose: []
